@@ -36,6 +36,11 @@ Here are some of the cool things I've been working on:
 - **Technologies:** HTML, CSS, JavaScript, Three.js.
 - **Status:** Completed (Rushed through cuz deadline).
 
+### [Magifonts Telegram Bot](https://github.com/akshit2434/magifonts/settings)
+- **Description:** A telegram bot used to create Android flashable packages to change system wide fonts, used by 4k+ users regularly on telegram before discontinuation. 
+- **Technologies:** Python.
+- **Status:** Completed (and Discontinued).
+
 ### [Basic Sudoku Solver](https://github.com/akshit2434/sudoku)
 - **Description:** Solves sudoku problems using backtrack algo.
 - **Technologies:** HTML, CSS, JavaScript.
