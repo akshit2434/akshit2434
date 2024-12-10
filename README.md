@@ -1,16 +1,16 @@
 # Hey there, I'm Akshit 👋
 
-Welcome to my GitHub profile! I'm a teen student who's ahead of his class, rocking a cool allrounder vibe without being a dork, nerd, or geek. Here, you'll find my projects, contributions, and a bit about me.
+Welcome to my GitHub profile! I'm a CSE student at JIIT. I'm just a chill guy trying to enjoy the world in its entirety (except academics). Here, you'll find my projects, contributions, and a bit about me.
 
 ## About Me
 
-- 🎓 **Student:** Always ahead of the game
-- 💼 **Future Pro:** Aspiring tech wizard
-- 🌱 **Learning:** Constantly exploring new tech and trends
-- 🚀 **Projects:** Always working on something exciting
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Python, C++, Node.js, and MongoDB
+- 🎓 **Student:** Btech CSE at JIIT Noida-62
+- 💼 **Future Pro:** Kal ho na ho (YOLO)
+- 🌱 **Learning:** Exploring React Native
+- 🚀 **Projects:** Currently working on SpendWise
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Python, C++, Node.js, etc
 - 📫 **Contact:** Reach me at [akshit2434@gmail.com](mailto:akshit2434@gmail.com)
-- ⚡ **Fun fact:** I aim to be an allrounder, and I’m anything but ordinary!
+- ⚡ **Fun fact:** If you find any issues in my code, then it's not a bug, it's a feature.
 
 ## Projects
 
