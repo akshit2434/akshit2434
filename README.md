@@ -5,12 +5,10 @@ Welcome to my GitHub profile! I'm a CSE student at JIIT. I'm just a chill guy tr
 ## About Me
 
 - 🎓 **Student:** Btech CSE at JIIT Noida-62
-- 💼 **Future Pro:** Kal ho na ho (YOLO)
-- 🌱 **Learning:** Exploring React Native
-- 🚀 **Projects:** Currently working on SpendWise
+- 🌱 **Learning:** Exploring AI Technologies, RAG Agents, etc.
 - 💬 **Ask me about:** HTML, CSS, JavaScript, React, Python, C++, Node.js, etc
 - 📫 **Contact:** Reach me at [akshit2434@gmail.com](mailto:akshit2434@gmail.com)
-- ⚡ **Fun fact:** If you find any issues in my code, then it's not a bug, it's a feature.
+- ⚡ **Fun fact:** Any issue in my PRs is not a bug, it's a feature.
 
 ## Projects
 
