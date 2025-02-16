@@ -14,15 +14,26 @@ Welcome to my GitHub profile! I'm a CSE student at JIIT. I'm just a chill guy tr
 
 Here are some of the cool things I've been working on:
 
+Contributed to: [JPGram](https://github.com/codeblech/jpgram) [Jpoop-Planner](https://github.com/codelif/jpoop-planner)
+
+Freelanced to build studioretouch.in and foodrificc.in (discontinued)
+
+### INSTURANCE
+- A startup working to revolutionize the content creation industry
+
+### [BHUMI] (https://github.com/akshit2434/BHUMI_SDG/)
+- A hackathon project promoting sustainable goals for industry, with a carbon tracking platform and a marketplace for byproducts exchange
+
+### [GraphBot](https://github.com/akshit2434/GraphBot)
+- **Description:** A bot which can generate as many graphs as needed, based on the user's queries.
+- **Purpose:** To try out various approaches towards agentic workflows, and to understand it from the root.
+- **Technologies:** React, Python, Pydantic, Pydantic-AI, LangChain, LangGraph.
+- **Status:** In progress
+
 ### [SpendWise Mobile App](https://github.com/akshit2434/SpendWise-App)
 - **Description:** Mobile app to track spendings and manage finances conveniently, aspecially for young adults.
 - **Technologies:** HTML, CSS, JavaScript, React, Node.js, and MongoDB.
-- **Status:** In progress.
-
-### [SpendWise Backend](#)
-- **Description:** Backend managing API calls and DB interactions for SpendWise.
-- **Technologies:** JavaScript, Node.js, Mongoose, Express, MongoDB.
-- **Status:** In progress.
+- **Status:** ~In progress~ Discontinued.
 
 ### [Technika'23 Website](https://github.com/akshit2434/Technika-webpage-22)
 - **Description:** Landing website for my school fest "Technika" in 2023.
@@ -39,7 +50,7 @@ Here are some of the cool things I've been working on:
 - **Technologies:** Python.
 - **Status:** Completed (and Discontinued).
 
-### [Basic Sudoku Solver](https://github.com/akshit2434/sudoku)
+## [Basic Sudoku Solver](https://github.com/akshit2434/sudoku)
 - **Description:** Solves sudoku problems using backtrack algo.
 - **Technologies:** HTML, CSS, JavaScript.
 - **Status:** Completed (One of my first projects).
