@@ -18,10 +18,10 @@ Contributed to: [JPGram](https://github.com/codeblech/jpgram) [Jpoop-Planner](ht
 
 Freelanced to build studioretouch.in and foodrificc.in (discontinued)
 
-### INSTURANCE
+### [INSTURANCE](https://www.insturance.org)
 - A startup working to revolutionize the content creation industry
 
-### [BHUMI] (https://github.com/akshit2434/BHUMI_SDG/)
+### [BHUMI](https://github.com/akshit2434/BHUMI_SDG/)
 - A hackathon project promoting sustainable goals for industry, with a carbon tracking platform and a marketplace for byproducts exchange
 
 ### [GraphBot](https://github.com/akshit2434/GraphBot)
