@@ -57,11 +57,9 @@ Freelanced to build studioretouch.in and foodrificc.in (discontinued)
 
 
 ## Skills
-
-- **Programming Languages:** HTML, CSS, JavaScript, Python, C++
-- **Frameworks and Libraries:** React, Node.js
-- **Tools:** Git, Docker
-- **Databases:** MongoDB
+- **Full Stack Web Development**
+- **AI Agents, Workflows, Graphs**
+- **Competitive Programming**
 
 ## Get in Touch
 
