@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm a CSE student at JIIT. I'm just a chill guy tr
 - 📫 **Contact:** Reach me at [akshit2434@gmail.com](mailto:akshit2434@gmail.com)
 - ⚡ **Fun fact:** Any issue in my PRs is not a bug, it's a feature.
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=akshit2434)
+
 ## Projects
 
 Here are some of the cool things I've been working on:
