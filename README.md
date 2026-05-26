@@ -15,6 +15,7 @@ Right now I am mostly focused on:
 Still a CSE student at JIIT, but most of my learning happens through shipping, breaking, rebuilding, and doing client work.
 
 ## Proof of work
+tho most stuff is private, here's some public repos
 
 ### [macOS on Web](https://github.com/akshit2434/macos-on-web)
 
