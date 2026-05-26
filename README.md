@@ -1,76 +1,57 @@
-# Hey there, I'm Akshit 👋
+# Akshit Singh
 
-Welcome to my GitHub profile! I'm a CSE student at JIIT. I'm just a chill guy trying to enjoy the world in its entirety (except academics). Here, you'll find my projects, contributions, and a bit about me.
+Building Neyven.
 
-## About Me
+I work on AI workflows, web systems, internal tools, automation, and product experiments that usually start from a messy real-world workflow.
 
-- 🎓 **Student:** Btech CSE at JIIT Noida-62
-- 🌱 **Learning:** Exploring AI Technologies, RAG Agents, etc.
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, Python, C++, Node.js, etc
-- 📫 **Contact:** Reach me at [akshit2434@gmail.com](mailto:akshit2434@gmail.com)
-- ⚡ **Fun fact:** Any issue in my PRs is not a bug, it's a feature.
+Right now I am mostly focused on:
 
-## Projects
+- AI-assisted business workflows
+- dashboards and internal tools
+- productized agency delivery
+- frontend systems with real interaction depth
+- agentic coding and workflow design
 
-Here are some of the cool things I've been working on:
+Still a CSE student at JIIT, but most of my learning happens through shipping, breaking, rebuilding, and doing client work.
 
-Contributed to: [JPGram](https://github.com/codeblech/jpgram) [Jpoop-Planner](https://github.com/codelif/jpoop-planner)
+## Proof of work
 
-Freelanced to build studioretouch.in and foodrificc.in (discontinued)
+### [macOS on Web](https://github.com/akshit2434/macos-on-web)
 
-### [INSTURIX](https://www.insturixx.com) (As CTO)
-- A startup working to revolutionize the content creation industry
+macOS-style web simulator with draggable windows, bundled apps, custom games, local-first content, and optional Supabase event logging.
 
-### [BHUMI](https://github.com/akshit2434/BHUMI_SDG/)
-- A hackathon project promoting sustainable goals for industry, with a carbon tracking platform and a marketplace for byproducts exchange
+Built to test frontend systems thinking: window focus, resizing, shell state, app state, game levels, media playback, and admin/event instrumentation inside one browser app.
+
+### [GrupStudy](https://github.com/akshit2434/grupstudy-proof-of-work)
+
+Guest-first shared focus room with ambient presence, timers, notes, a desktop companion pet, and a sprite pipeline.
+
+The product question was simple: can productivity feel social without turning into calls, Discord, or constant chat?
+
+### [Drink Water Pair Apps](https://github.com/akshit2434/drink-water-pair-apps)
+
+Tiny two-phone notification tool built with one Expo codebase, two Android app identities, manual token pairing, and direct Expo push notifications.
+
+Small project, but a useful reminder that not every personal workflow needs accounts, databases, or a backend.
+
+### [gemini-image-ts](https://github.com/akshit2434/gemini-image-ts)
+
+Minimal TypeScript client for Gemini web image generation experiments.
 
 ### [GraphBot](https://github.com/akshit2434/GraphBot)
-- **Description:** A bot which can generate as many graphs as needed, based on the user's queries.
-- **Purpose:** To try out various approaches towards agentic workflows, and to understand it from the root.
-- **Technologies:** React, Python, Pydantic, Pydantic-AI, LangChain, LangGraph.
-- **Status:** In progress
 
-### [SpendWise Mobile App](https://github.com/akshit2434/SpendWise-App)
-- **Description:** Mobile app to track spendings and manage finances conveniently, aspecially for young adults.
-- **Technologies:** HTML, CSS, JavaScript, React, Node.js, and MongoDB.
-- **Status:** ~In progress~ Discontinued.
+Graph/query bot experiment built while learning agentic workflows, LangGraph, LangChain, Pydantic, and Python-based orchestration.
 
-### [Technika'23 Website](https://github.com/akshit2434/Technika-webpage-22)
-- **Description:** Landing website for my school fest "Technika" in 2023.
-- **Technologies:** HTML, CSS, JavaScript, , Three.js.
-- **Status:** Completed (Rushed through cuz deadline again).
+### [Magifonts](https://github.com/akshit2434/magifonts)
 
-### [Technika'22 Website](https://github.com/akshit2434/Technika-webpage-22)
-- **Description:** Landing website "Technika" in 2022.
-- **Technologies:** HTML, CSS, JavaScript, Three.js.
-- **Status:** Completed (Rushed through cuz deadline).
+Old Telegram bot that created Android flashable font packages and was used by 4k+ Telegram users before I discontinued it.
 
-### [Magifonts Telegram Bot](https://github.com/akshit2434/magifonts/settings)
-- **Description:** A telegram bot used to create Android flashable packages to change system wide fonts, used by 4k+ users regularly on telegram before discontinuation. 
-- **Technologies:** Python.
-- **Status:** Completed (and Discontinued).
+## Stack I use a lot
 
-## [Basic Sudoku Solver](https://github.com/akshit2434/sudoku)
-- **Description:** Solves sudoku problems using backtrack algo.
-- **Technologies:** HTML, CSS, JavaScript.
-- **Status:** Completed (One of my first projects).
+TypeScript, React, Next.js, Tailwind CSS, Supabase, Convex, Expo, React Native, Electron, Python, Playwright, AI agents/workflows.
 
+## Links
 
-## Skills
-- **Full Stack Web Development**
-- **AI Agents, Workflows, Graphs**
-- **Competitive Programming**
-
-## Get in Touch
-
-Let's connect and chat:
-
-- **Email:** [akshit2434@gmail.com](mailto:akshit2434@gmail.com)
-- **LinkedIn:** [TheSc1enceGuy](https://www.linkedin.com/in/thesc1enceguy)
-- **Twitter:** [@TheSc1enceGuy](https://twitter.com/thesc1enceguy)
-
-<!--## GitHub Stats
-
-![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshit2434&show_icons=true&theme=radical)
--->
-Thanks for visiting my profile! Keep it cool, and happy coding!
+- LinkedIn: [linkedin.com/in/thesc1enceguy](https://www.linkedin.com/in/thesc1enceguy)
+- Website: [akshit2434.xyz](https://akshit2434.xyz)
+- Email: [akshit2434@gmail.com](mailto:akshit2434@gmail.com)
