@@ -54,5 +54,4 @@ TypeScript, React, Next.js, Tailwind CSS, Supabase, Convex, Expo, React Native, 
 ## Links
 
 - LinkedIn: [linkedin.com/in/thesc1enceguy](https://www.linkedin.com/in/thesc1enceguy)
-- Website: [akshit2434.xyz](https://akshit2434.xyz)
 - Email: [akshit2434@gmail.com](mailto:akshit2434@gmail.com)
